@@ -1,0 +1,19 @@
+{
+  "name": "jest_demo",
+  "version": "1.0.0",
+  "description": "Jest unit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Jest",
+    "unit",
+    "test"
+  ],
+  "author": "Inklake",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.1"
+  }
+}
